@@ -135,7 +135,6 @@ progress[value] {
 
 }
 
-
 progress[value] {
    -webkit-appearance: none;
     appearance: none;
@@ -165,7 +164,7 @@ progress[value]::-webkit-progress-value {
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
-    width: 230px;
+    width: 278px;
 }
 
 div.gallery:hover {
@@ -173,7 +172,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 230px;
+    width: 275px;
     height: 230px; 
  
 }
